@@ -1,4 +1,3 @@
-# .github/workflows/python-tests.yml
 name: Python Tests
 
 on: [push, pull_request]

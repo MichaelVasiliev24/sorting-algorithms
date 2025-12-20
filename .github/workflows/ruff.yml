@@ -1,4 +1,3 @@
-# .github/workflows/ruff.yml
 name: Ruff Lint and Format
 
 on: [push, pull_request]
